@@ -81,7 +81,7 @@ const config = {
     Emails are sent via https://formsubmit.co/
     */
     contactPage: {
-        email: "gionnycraft@gmail.com"
+        email: "itscreeplycanale@gmail.com"
     }
 }
 
