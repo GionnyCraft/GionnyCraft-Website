@@ -9,7 +9,7 @@ const config = {
         serverLogoImageFileName: "logo.png", /*This is a file name for logo in /images/ (If you upload new logo with other name, you must change this value)*/
         serverName: "GionnyCraft", /*Server name*/
         serverIp: "play.gionnycraft.it", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
-        discordServerID: "1011331275841343648" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
+        discordServerID: "1142459640425230376" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
     },
 
     /*Admin-Team
