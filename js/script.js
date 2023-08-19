@@ -8,7 +8,7 @@ const config = {
     serverInfo: {
         serverLogoImageFileName: "logo.png", /*This is a file name for logo in /images/ (If you upload new logo with other name, you must change this value)*/
         serverName: "GionnyCraft", /*Server name*/
-        serverIp: "mc.gionnycraft.it", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
+        serverIp: "play.gionnycraft.it", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
         discordServerID: "1011331275841343648" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
     },
 
@@ -59,16 +59,22 @@ const config = {
                 inGameName: "Tryko2105",
                 rank: "Mod",
                 skinUrlOrPathToFile: "",
-                rankColor: ""
+                rankColor: "rgba(109, 222, 237)"
             },
             {
                 inGameName: "Riky_Exe",
                 rank: "Helper",
                 skinUrlOrPathToFile: "",
-                rankColor: ""
+                rankColor: "rgba(82, 252, 3)"
             },
         ],
        Sviluppo: [
+            {
+                inGameName: "AyoCreeply",
+                rank: "WebMaster / SrDev",
+                skinUrlOrPathToFile: "",
+                rankColor: "rgba(21, 113, 125)"
+            },
         ],
        Builder: [
         ],
